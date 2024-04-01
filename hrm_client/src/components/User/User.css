@@ -1,0 +1,28 @@
+.userlogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 500px;
+}
+
+.userlogin .hii {
+    text-align: center;
+}
+
+.userlogin h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.userlist {
+    list-style: none;
+    padding: 0;
+}
+
+.userlist li {
+    margin-bottom: 10px;
+}
+
+.footer{
+    margin-top: 50px;
+}

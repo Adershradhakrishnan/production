@@ -1,0 +1,14 @@
+.header,ul{
+    display: flex;
+    padding: 0px 20px 0px 20px;
+}
+.header ul,li{
+    list-style-type: none;
+    padding: 2px 40px 0px 40px;
+}
+
+nav{
+    border: solid 1px green;
+    color: white;
+    background-color: green;
+}

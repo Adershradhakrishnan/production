@@ -1,0 +1,62 @@
+nav{
+    background-color: green;
+    color: #fff;
+    padding: 10px 20px;
+}
+
+.listnav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.listnav h3{
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.listnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.listnav ul li {
+    margin-right: 20px;
+}
+
+.listnav ul li:last-child{
+    margin-right: 0;
+}
+
+.listnav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.listnav ul li a:hover {
+    text-decoration: underline;
+}
+
+.buttonss{
+    display: flex;
+    align-items: center;
+
+}
+.buttonss > div {
+    margin-right: 10px;
+}
+
+.buttonss button {
+    background-color: aqua;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.buttonss button:hover {
+    background-color: blueviolet;
+}

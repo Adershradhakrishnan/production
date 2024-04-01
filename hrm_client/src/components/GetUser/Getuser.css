@@ -1,0 +1,65 @@
+.csk{
+    /* background-image: url('../GetUser/images/get.jpeg'); */
+     background-size: cover;
+    width: 100%;
+     
+} 
+
+
+.rcb{
+    color: green;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.dry,p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dry p{
+    width: 300px;
+    color: green;
+    
+}
+
+.dry1{
+    display: flex;
+    
+}
+.dry2{
+    display: flex;
+}
+
+.dry3{
+    display: flex;
+}
+
+.mi{
+    display: flex;
+    
+}
+
+.mi,h1{
+    /* padding: 20px 0px 10px 230px;  */
+    color: green;
+    margin-left: 210px;
+    padding-left: 40px;
+    
+}
+.rcb,h1{
+    margin-bottom: 20px;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pagination button{
+    margin: 10px;
+}

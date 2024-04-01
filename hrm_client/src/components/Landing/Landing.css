@@ -1,0 +1,23 @@
+ /* .Login{
+    background-color: aqua;
+    height: 70vh;
+    padding: 10px;
+}
+
+.Login,button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  */
+
+.landing{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color:burlywood; */
+    background-image: url('../Landing/images/landing.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+

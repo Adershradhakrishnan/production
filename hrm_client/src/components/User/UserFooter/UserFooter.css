@@ -1,0 +1,17 @@
+footer {
+    background-color: green;
+    color: #fff;
+    padding: 20px;
+}
+
+.about, .contact {
+    margin-bottom: 20px;
+}
+
+.about h4, .contact h4 {
+    margin-top: 0;
+}
+
+.about p {
+    margin: 0;
+}

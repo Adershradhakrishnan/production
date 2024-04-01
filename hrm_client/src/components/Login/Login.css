@@ -1,0 +1,30 @@
+.data{
+    /* background-color: orchid; */
+    background-image: url('../Login/images/login.jpeg');
+    padding-top: 200px;
+    width: 100%;
+    height: 100vh;
+}
+
+.logindata{
+    margin: auto;
+    margin-left: 750px;
+}
+
+.logindata label,button{
+    display: block;
+}
+
+.logindata input{
+    margin-bottom: 10px;
+}
+.centre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 950px;
+}
+.seven{
+    margin-left: 800px;
+}
+

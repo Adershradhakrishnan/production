@@ -1,0 +1,60 @@
+.one{
+    display: flex;
+    height: 90vh;
+}
+
+.three{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+     padding: 100px; 
+    width: 30vw;
+    height: 80vh;
+    background-color: #efdfce;
+    color: black;
+    
+}
+
+.three label{
+    display: block;
+    padding: 40px;
+    margin-bottom: 3px;
+}
+
+.three input{
+    margin-top: 5px;
+    width: 200px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+.three button{
+    margin-top: 10px;
+    
+}
+
+.two,img{
+    display: flex;
+    height: 80vh;
+    width: 30vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.buttonss{
+    display: flex;
+}
+
+.button1{
+    margin-right: 20px;
+}
+
+.button1 button:hover{
+    background-color: aqua;
+    color: white;
+}
+.button2 button:hover{
+    background-color: blueviolet;
+    color: white;
+}

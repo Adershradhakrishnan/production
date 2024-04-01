@@ -1,0 +1,36 @@
+ .adminlog{
+    display: flex;
+    background-image: url(../Admin/images/admin.jpeg);
+    background-size: cover;
+    height: 100vh;
+}
+/* 
+.add{
+    background-color: blueviolet;
+    margin-top: 50px;
+    width: 200px;
+    padding-bottom: 100px;
+} */
+
+.add img{
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+    width: 60%;
+}
+
+.add h1{
+    margin-top: 20px;
+    padding-left: 20px;
+    color: burlywood;
+}
+
+.admine{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    color: white;
+    padding-top: 20px;
+}
+ 
