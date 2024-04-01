@@ -10,7 +10,7 @@ const connect = require("./db/connect");
 dotenv.config();
 
 connect();
-
+app.use(express.static(__dirname + '/public'))
 const corsOptions = {
   origin: 'http://localhost:5173'
 };
